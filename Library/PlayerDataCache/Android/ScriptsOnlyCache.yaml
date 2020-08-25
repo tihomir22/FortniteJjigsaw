@@ -14,9 +14,6 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
-    UnityEngine.Advertisements.Editor.dll:
-    - UnityEngine.Advertisements.Placeholder
-    - UnityEngine.Advertisements.Platform.Editor.BannerPlaceholder
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -747,4 +744,4 @@ ScriptsOnlyBuild:
   - Assets/_JigsawPuzzle_Kit/Splash.unity
   - Assets/MainMenu.unity
   - Assets/Scene_Level2.unity
-  playerPath: C:/Users/tihom/UnityProjects/IAmJigsaw/annabelle.apk
+  playerPath: C:/Users/tihom/UnityProjects/AnnabelleJigsaw/annabelle.apk
